@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">InternalApplication</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoiZGV2ZWxvcGVyeHl6IiwiYSI6ImNqa2poMXV1cjFibzQza2p5c3YyZGl6cGMifQ.uMu2kiKV4918S7ITBjdXZQ</string>
+</resources>
